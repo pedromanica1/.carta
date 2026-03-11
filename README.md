@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Carta</title>
 <style>
 body {
     background: #e0d6c5;
